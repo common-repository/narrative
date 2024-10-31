@@ -1,0 +1,7 @@
+#TB_window {
+	z-index:170000; /* Above Wordpress Media Modal (uploader, library, etc.) */
+}
+
+.narrative-overlay-save {
+	color:red;
+}

@@ -1,0 +1,30 @@
+# Copyright (C) 2014 Narrative
+# This file is distributed under the same license as the Narrative package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Narrative 0.3\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/narrative\n"
+"POT-Creation-Date: 2014-08-06 19:31:15+00:00\n"
+"MIME-Version: 0.3\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+
+#: theme/single-narrative.php
+msgid "Home"
+msgstr ""
+
+#: narrative.php:398
+msgid "Narrative templates"
+msgstr ""
+
+#: narrative.php:444
+msgid "Choose which Narrative templates to use for this post."
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Plugin to enable Narrative on select posts. Works with both SEO and non-SEO "
+"permalinks."
+msgstr ""
